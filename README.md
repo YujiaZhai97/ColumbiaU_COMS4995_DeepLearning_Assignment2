@@ -1,1 +1,1 @@
-# This is for Columbia University deep learning class assignment2 
+This is for Columbia University deep learning class assignment2 
